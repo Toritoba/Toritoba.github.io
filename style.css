@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Road+Rage&family=Roboto:wght@500;700&display=swap');
+
+.text-road-rage {
+    position: absolute;
+    width: 78px;
+    font-family: "Road Rage", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: 38px;
+    white-space: nowrap;
+  }
+
 h1{
     font-size: 30px;
     text-align: center;
